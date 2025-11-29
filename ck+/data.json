@@ -42884,66 +42884,68 @@
             "name": "leader-falkner",
             "team": [
                 {
-                    "item": "berry",
-                    "level": 14,
-                    "moves": [
-                        "pursuit",
-                        "night-shade",
-                        "peck"
-                    ],
-                    "name": "murkrow"
-                },
-                {
-                    "item": "mystic-water",
-                    "level": 14,
-                    "moves": [
-                        "confuse-ray",
-                        "toxic",
-                        "water-gun",
-                        "powder-snow"
-                    ],
-                    "name": "mantine"
-                },
-                {
-                    "item": "berry",
-                    "level": 14,
-                    "moves": [
-                        "rock-throw",
-                        "wing-attack",
-                        "steel-wing"
-                    ],
-                    "name": "gligar"
-                },
-                {
-                    "item": "berry-juice",
-                    "level": 14,
-                    "moves": [
-                        "metronome",
-                        "softboiled"
-                    ],
-                    "name": "togetic"
-                },
-                {
-                    "item": "berry",
+                    "item": "pink-bow",
                     "level": 16,
                     "moves": [
                         "razor-wind",
+                        "wing-attack",
                         "quick-attack",
-                        "steel-wing",
-                        "wing-attack"
+			"steel-wing"
                     ],
                     "name": "pidgeotto"
                 },
                 {
-                    "item": "berry",
+                    "item": "berry-juice",
                     "level": 15,
                     "moves": [
+                        "toxic",
+                        "encore",
+                        "surf",
+                        "future-sight"
+                    ],
+                    "name": "psyduck"
+                },
+                {
+                    "item": "amulet-coin",
+                    "level": 15,
+                    "moves": [
+                        "mirror-move",
+                        "pursuit"
+                    ],
+                    "name": "murkrow"
+                },
+                {
+                    "item": "no-item",
+                    "level": 15,
+                    "moves": [
+                        "psybeam",
+                        "wing-attack",
+			"giga-drain",
+			"thief"
+                    ],
+                    "name": "natu"
+                },
+                {
+                    "item": "leftovers",
+                    "level": 16,
+                    "moves": [
                         "hypnosis",
-                        "confusion",
                         "night-shade",
-                        "quick-attack"
+                        "quick-attack",
+                        "gust"
                     ],
                     "name": "noctowl"
+                },
+                {
+                    "item": "sharp-beak",
+                    "level": 15,
+                    "moves": [
+                        "flame-wheel",
+                        "thundershock",
+                        "peck",
+                        "mach-punch"
+                    ],
+                    "name": "magmar"
                 }
             ]
         },
